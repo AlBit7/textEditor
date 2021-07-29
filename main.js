@@ -1,4 +1,3 @@
-var cursore = [1, 1];
 var contatoreLinee = 1;
 const numeroLinee = document.getElementById("numeroLinee");
 const testo = document.getElementById("testo");
